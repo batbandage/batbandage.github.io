@@ -4,7 +4,7 @@
 title: ALEBAT
 description: "ALEBAT"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "" #important: start with /
+baseurl: "/hasnogame.github.io" #important: start with /
 url: ""
 
 # Build settings
