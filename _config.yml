@@ -48,4 +48,4 @@ address:
     - United States.
 email: alebat@alebatart.com
 
-remote_theme: solid-jekyll
+theme: solid-jekyll
