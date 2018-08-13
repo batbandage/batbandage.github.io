@@ -1,0 +1,18 @@
+---
+layout: index
+title: Home
+permalink: /
+---
+
+{% include portfolio.html title="LATEST WORKS" limit=10 %}
+
+<div class="container mtb">
+    <div class="row">
+        <div class="col-lg-4 col-lg-offset-1">
+            <h4>More Artwork From Alebat</h4>
+            <p>{{ site.portfolio }}</p>
+            <p><br/><a href="{{ "/portfolio/" | prepend: site.baseurl }}" class="btn btn-theme">Portfolio</a></p>
+        </div>
+
+    </div><! --/row -->
+</div><! --/container -->
