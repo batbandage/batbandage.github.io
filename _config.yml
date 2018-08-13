@@ -5,7 +5,7 @@ title: ALEBAT
 description: "ALEBAT"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "https://hasnogame.github.io"
+url: ""
 
 # Build settings
 markdown: kramdown
@@ -47,5 +47,3 @@ address:
     - 23890, New York,
     - United States.
 email: alebat@alebatart.com
-
-theme: solid-jekyll
