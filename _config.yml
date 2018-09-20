@@ -1,5 +1,10 @@
 ### GENERAL SETTINGS ###
 
+plugins:
+  - github-pages
+  - jekyll-admin
+  - jekyll-assets
+
 # Site settings
 title: ALEBAT
 description: "ALEBAT"
@@ -38,12 +43,13 @@ social:
     url: https://twitter.com/batbandage
   - title: tumblr
     url: https://battington.tumblr.com
-  - title: 
 
-# Postal address (add as many lines as necessary). Shown in footer and on Contact page.
-address:
-  - lines:
-    - Some Ave, 987,
-    - 23890, New York,
-    - United States.
 email: alebat@alebatart.com
+
+mini_magick:
+  thumbnail:
+    source: assets/img/project
+    destination: assets/img/project/thumbs
+    commands:
+      - thumbnail: "400x300^"
+      - crop: "400x300-0x0"
