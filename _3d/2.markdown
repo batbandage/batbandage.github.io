@@ -1,12 +1,12 @@
 ---
-layout: project
+layout: 3dlayout
 title:  "Bibette turnaround"
 date:   2018-09-20 16:30:00
 author: ALEBAT
 categories:
-- project
+- 3d
 img: 2.gif
-thumb: 2.gif
+thumb: 2.png
 carousel:
 - 2.gif
 tagged: Art, Cool, Neat

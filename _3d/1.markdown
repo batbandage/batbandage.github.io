@@ -1,12 +1,12 @@
 ---
-layout: project
+layout: 3dlayout
 title:  "3d chibi commission"
-date:   2018-08-12 22:00:00
+date:   2018-09-20 16:30:00
 author: ALEBAT
 categories:
-- project
+- 3d
 img: 1.gif
-thumb: 1.gif
+thumb: 1.png
 carousel:
 - 1.gif
 tagged: Art, Cool, Neat

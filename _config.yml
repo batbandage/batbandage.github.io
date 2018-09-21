@@ -3,7 +3,6 @@
 plugins:
   - github-pages
   - jekyll-admin
-  - jekyll-assets
 
 # Site settings
 title: ALEBAT
@@ -31,9 +30,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:title/
-  questions:
+  3d:
     output: true
-    permalink: /questions/:title/
+    permalink: /3d/:title/
 
 ### CONTACT SETTINGS ###
 
@@ -45,11 +44,3 @@ social:
     url: https://battington.tumblr.com
 
 email: alebat@alebatart.com
-
-mini_magick:
-  thumbnail:
-    source: assets/img/project
-    destination: assets/img/project/thumbs
-    commands:
-      - thumbnail: "400x300^"
-      - crop: "400x300-0x0"
