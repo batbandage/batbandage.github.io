@@ -269,8 +269,10 @@ a:focus {
 
 /*hasnogame bookmark*/
 .portfolio-item img {
-	padding-right: 10px;
-	padding-bottom: 10px;
+	padding-right: 5px;
+	padding-left: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
 
 .portfolio-item .title:before {border-radius:0; display:none}
