@@ -267,6 +267,11 @@ a:focus {
 	display:block;
 }
 
+/*hasnogame bookmark*/
+.portfolio-item img {
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
 
 .portfolio-item .title:before {border-radius:0; display:none}
 .portfolio-item p {margin:0px 0 30px;}
