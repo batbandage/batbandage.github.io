@@ -5,8 +5,8 @@ date:   2018-08-12 22:00:00
 author: ALEBAT
 categories:
 - project
-img: 1.png
-thumb: 1.png
+img: 1.jpg
+thumb: thumb1.png
 carousel:
-- 1.png
+- 1.jpg
 ---

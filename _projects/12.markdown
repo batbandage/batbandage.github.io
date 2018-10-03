@@ -1,0 +1,12 @@
+---
+layout: project
+title:  "TWITTER SET 2"
+date:   2018-10-03 23:30:00
+author: ALEBAT
+categories:
+- project
+img: 12.png
+thumb: thumb12.png
+carousel:
+- 12.png
+---

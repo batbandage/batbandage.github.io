@@ -6,7 +6,7 @@ author: ALEBAT
 categories:
 - project
 img: 2.png
-thumb: 2.png
+thumb: thumb2.png
 carousel:
 - 2.png
 ---
