@@ -1,6 +1,5 @@
 ---
 layout: project
-title:  "TWITTER SET 2"
 date:   2018-08-12 22:00:00
 author: ALEBAT
 categories:
